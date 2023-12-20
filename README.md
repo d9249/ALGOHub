@@ -1,2 +1,4 @@
 # ALGOHub
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dodo9249)](https://solved.ac/dodo9249/)
